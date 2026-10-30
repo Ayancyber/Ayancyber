@@ -18,7 +18,6 @@ Here are some of the platforms I have built and deployed. Click the links below 
 ---
 
 ### 💻 Tech Stack & Tools
-*(Tip: You can change these to match exactly what you used)*
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
