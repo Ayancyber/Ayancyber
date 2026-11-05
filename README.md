@@ -8,6 +8,12 @@ I'm a web developer passionate about building functional, responsive, and modern
 
 Explore some of the projects I've built and deployed:
 
+#### 👁️ The Eye Within Words — Generative Typography
+A living, blinking human eye rendered **entirely out of poetry**. Every pixel of the iris, pupil, sclera, and eyelids is real English text — quotes, philosophical fragments, and poetic words — laid out with geometry and animated with a continuous cinematic camera zoom. No images. No vectors. Just typography.
+
+Built with pure HTML, Canvas 2D, and vanilla JavaScript. Signed by me. Look for `ayan` hidden in the pupil.
+
+- **[Launch The Eye Within Words](https://eye-js.netlify.app/)** 
 #### 🍽️ Restaurant Website Builder(Still Progressing)
 A platform for building modern, customized restaurant websites with ease.
 
